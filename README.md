@@ -36,7 +36,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=codelavkush&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=shades-of-purple&hide_border=true&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=codelavkush&locale=en&mode=daily&theme=shades-of-purple&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
