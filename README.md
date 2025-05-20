@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Lavkush Maurya and I'm a Web dev from Mumbai</p>
+<p align="left">My name is Lavkush Maurya and I'm a Devloper from Mumbai</p>
 
 ###
 
