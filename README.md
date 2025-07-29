@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning React and fastAPI<br>🎯 Goals: Build my own SASS app</p>
+<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning django rest framework<br>🎯 Goals: Build my own SASS app</p>
 
 ###
 
